@@ -1,0 +1,1 @@
+This repository is to apply the basics of html learned into a single project.
