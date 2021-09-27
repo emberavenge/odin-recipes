@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(168, 197, 206);
+}
+
+h3{ 
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 20px;
+    font-size: Verdana, sans-serif;
+}
+
+ul li {
+    font-size: 20px;
+    font-size: Verdana, sans-serif;
+}
+
+ol li {
+    font-size: 20px;
+    font-size: Verdana, sans-serif;
+}
